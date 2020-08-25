@@ -1,0 +1,22 @@
+{
+    "Pokemon":{
+        "WildPokemon":{
+            "Caterpie":{
+                "Name":"Caterpie",
+                "Level":"3",
+                "Image":"https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png"
+            },
+            "Pidgey":{
+                "Name":"Pidgey",
+                "Level":"5",
+                "Image":"https://cdn.bulbagarden.net/upload/5/55/016Pidgey.png"
+            },
+            "PidgeyL3":{
+                "Name":"Pidgey",
+                "Level":"3",
+                "Image":"https://cdn.bulbagarden.net/upload/5/55/016Pidgey.png"
+            }
+            
+        }
+    }
+}
